@@ -17,13 +17,13 @@ public class DecHexBinCalculator {
 
     public static void main(String[] args) {
 
-//        decToBin(50);
-//        System.out.println();
-//        decToBin(99);
-//        System.out.println();
-//        decToBin(1234);
-//        System.out.println();
-//        System.out.println();
+        decToBin(50);
+        System.out.println();
+        decToBin(99);
+        System.out.println();
+        decToBin(1234);
+        System.out.println();
+        System.out.println();
 //
 //        decToHex(24);
 //        System.out.println();
