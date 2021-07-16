@@ -6,6 +6,6 @@ This program is designed to convert decimal/hexadecimal/binary numbers into the 
 This project was inspired by the subject matter of UNCG's CSC 261 class with professor Chandana Ariyawansa.
 
 ### 2/3 features are complete.
- ✓  decimal -> hexadecimal or binary
- ✓  binary -> decimal or hexadecimal
+ - ✓  decimal -> hexadecimal or binary
+ - ✓  binary -> decimal or hexadecimal
  - hexadecimal -> decimal or binary
